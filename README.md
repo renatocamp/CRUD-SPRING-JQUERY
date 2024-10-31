@@ -1,6 +1,6 @@
 # Aplicação de Gerenciamento de Usuários
 
-Pessoal, está é aplicação bastante simples, mas extremamente funcional, desenvolvida para praticar e aprimorar habilidades em Spring Boot, PostgreSQL, Bootstrap 5 e jQuery.
+Pessoal, esta é uma aplicação bastante simples, mas extremamente funcional, desenvolvida para praticar e aprimorar habilidades em Spring Boot, PostgreSQL, Bootstrap 5 e jQuery.
 
 💡 Objetivo
 O objetivo principal deste projeto simples é reforçar meus conhecimentos e até mesmo aprender novos conceitos em desenvolvimento web, com os quais pude trabalhar bastante nos projetos da seguradora Sompo Seguros, integrando estrutura robusta e tecnologias front-end modernas para criar uma experiência de usuário agradável e eficiente.
